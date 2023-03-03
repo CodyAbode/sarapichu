@@ -1,2 +1,2 @@
 # sarapichu
-![sarapichu](https://sarapichu.com/assets/sarapichu.jpg)
+![sarapichu](/assets/sarapichu.jpg)
